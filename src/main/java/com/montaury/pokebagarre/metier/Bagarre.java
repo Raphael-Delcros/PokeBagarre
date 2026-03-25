@@ -5,7 +5,7 @@ import com.montaury.pokebagarre.erreurs.ErreurPokemonNonRenseigne;
 import com.montaury.pokebagarre.webapi.PokeBuildApi;
 import java.util.concurrent.CompletableFuture;
 
-public class Bagarre {
+public class  Bagarre {
   public final PokeBuildApi webApi;
 
   public Bagarre() {
